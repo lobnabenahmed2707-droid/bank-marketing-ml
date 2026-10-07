@@ -5,7 +5,4 @@ scikit-learn==1.8.0
 imbalanced-learn==0.14.2
 joblib==1.5.3
 streamlit==1.65.0
-# Uniquement pour relancer le notebook :
-matplotlib==3.10.8
-seaborn==0.13.2
-jupyter
+
